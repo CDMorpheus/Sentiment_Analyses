@@ -26,10 +26,11 @@ Ans:
 What is your accuracy and loss?\
 Ans: \
 Training loss is 0.067 
+test accuracy is 98.4%
 
 Why did you decide to submit your project with the above accuracy and loss?\
 Ans:\
-It is decent accuracy and loss given our dataset. 
+It is great accuracy and loss given our dataset. 
 
 What are the results of predictions?\
 Ans:
